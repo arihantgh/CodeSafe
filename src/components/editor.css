@@ -1,0 +1,14 @@
+.ProseMirror {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  min-height: 350px;
+}
+
+pre{
+  background-color: #212121 !important;
+  color: #f8f8f2;                      
+  padding: 1rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
